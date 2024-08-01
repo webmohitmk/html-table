@@ -1,0 +1,54 @@
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+} */
+
+/* p {
+  background-color: seagreen;
+  text-align: center;
+} */
+
+.para1 {
+  padding: 20px;
+  background-color: green;
+  text-align: center;
+}
+
+.para2 {
+  font-size: 32px;
+  color: #fff;
+}
+
+#para3 {
+  background-color: magenta;
+  text-align: center;
+}
+
+table,
+th,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+  padding: 10px;
+}
+
+thead {
+  background-color: orange;
+}
+
+/* th {
+  font-size: 30px;
+} */
+
+.roman {
+  list-style-type: upper-roman;
+}
+
+.lower-alpha {
+  list-style-type: lower-alpha;
+}
+
+form div {
+  margin-top: 20px;
+}
